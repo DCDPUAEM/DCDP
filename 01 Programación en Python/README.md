@@ -14,3 +14,5 @@ El contenido de este módulo se divide en los siguientes temas:
     1.8 Uso de NumPy para el cómputo científico de datos.
     1.9 Uso de Pandas para el procesamiento de datos estructurados y series de tiempo.
     1.10 Uso de Matplotlib, Seaborn y Pandas para visualización de datos.
+
+Buen inicio de diplomado!
