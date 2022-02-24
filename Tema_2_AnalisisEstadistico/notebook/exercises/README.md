@@ -1,1 +1,0 @@
-# Prácticas - Tema 2
