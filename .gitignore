@@ -134,3 +134,4 @@ dmypy.json
 *.gz
 *.toc
 04 Clasificación y Agrupamiento/slides/Thumbs.db
+*.db
