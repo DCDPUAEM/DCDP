@@ -135,3 +135,5 @@ dmypy.json
 *.toc
 04 Clasificación y Agrupamiento/slides/Thumbs.db
 *.db
+05 Deep Learning/notebooks/cnn_perros_gatos/test/cats/cat.4.jpg
+05 Deep Learning/notebooks/Dogs-Cats-files-processing.ipynb
