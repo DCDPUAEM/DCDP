@@ -3,15 +3,13 @@
 
 Bienvenido!!
 
-Material del diplomado en Ciencia de Datos con Python 2019 del Centro de Investigación en Ciencias de la Universidad Autónoma del Estado de Morelos.
+Material del diplomado en Ciencia de Datos con Python 2023 del Centro de Investigación en Ciencias de la Universidad Autónoma del Estado de Morelos.
 
-El Diplomado en Ciencia  de  Datos  con  Python tiene como objetivo presentar  los fundamentos, herramientas y métodos para realizar procesos de análisis de datos y así extraer información práctica. El desarrollo de esta tarea tiene aplicaciones en tanto en los sectores académicos como en los empresariales e industriales. Este diplomado se divide en 5 módulos:
+El Diplomado en Ciencia  de  Datos  con  Python tiene como objetivo presentar los fundamentos, herramientas y métodos para realizar procesos de análisis de datos y así extraer información práctica. El desarrollo de esta tarea tiene aplicaciones en tanto en los sectores académicos como en los empresariales e industriales. Este diplomado se divide en 3 módulos:
 
-* Introducción a Python para ciencia de datos.
-* Análisis estadístico de datos.
-* Pre-procesamiento y  Normalización.
-* Clasificación y  Agrupamiento.
-* Aprendizaje  profundo.
+* Introducción a Python para ciencia de datos y análisis estadístico de datos.
+* Pre-procesamiento y Aprendizaje Automático
+* Aprendizaje profundo.
   
 Los módulos introducen técnicas y conceptos sobre la manipulación de datos, análisis estadístico y el aprendizaje de máquina.
 
