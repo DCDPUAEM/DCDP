@@ -16,7 +16,7 @@ Los módulos introducen técnicas y conceptos sobre la manipulación de datos, a
 El diplomado utiliza el formato de notebooks para presentar e interactuar con el material, estas notebooks incluyen enlace directo para abrirlas en Google Colaboratory.
 
 Para aprovechar mejor los contenidos del diplomado, es recomendable que los participantes cuenten con conocimientos básicos sobre:
-- Porgramación estructurada
+- Programación estructurada
 - Cálculo
 - Álgebra lineal
 - Probabilidad y estadística
