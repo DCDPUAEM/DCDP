@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import PolynomialFeatures
 
 class LeastSquaresClassifier():
     def __init__(self, W:np.ndarray=None):
@@ -21,10 +19,11 @@ class LeastSquaresClassifier():
         y el conjunto de etiquetas y.
         '''
         T = self.encoderT(y)
-        self.W = np.linalg.inv(X_train.T @ X_train) @ X_train.T @ T
+        self.W = np.linalg.inv(X.T @ X) @ X.T @ T
         
     def clasifica(self, X:np.ndarray):
         '''
         Este método predice las etiquetas para el conjunto de puntos X
         '''
         return np.argmax(X@self.W,axis=1)
+     
