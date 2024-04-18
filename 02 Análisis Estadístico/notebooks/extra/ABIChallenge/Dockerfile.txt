@@ -1,0 +1,19 @@
+# Dockerfile
+
+# Use the official Python base image
+FROM python:3.9
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the project files into the container
+COPY . /app
+
+# Install the project dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Expose the port on which the API will listen
+EXPOSE 8000
+
+# Define the command to run the Flask application
+CMD ["python", "app.py"]
