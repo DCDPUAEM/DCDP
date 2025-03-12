@@ -1,0 +1,3 @@
+# Módulo 2 - Análisis Estadístico de Datos
+
+La estadística proporciona el marco para comprender e interpretar los datos. Nos permite calcular la incertidumbre, detectar tendencias y sacar conclusiones sobre las poblaciones a partir de muestras. En la ciencia de datos, una sólida comprensión de los conceptos estadísticos es crucial para tomar decisiones informadas, validar los hallazgos y construir modelos sólidos.
